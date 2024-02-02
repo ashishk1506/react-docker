@@ -19,4 +19,4 @@ deploy:
   env: "Frontend-env"
   region: "ap-south-1"
   on:
-    branch: master
+    branch: feature/docker
